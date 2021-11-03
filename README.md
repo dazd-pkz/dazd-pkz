@@ -1,4 +1,4 @@
-Hi, I am a French developer who does C#, Visual Basic, Batch and Shell
+Hi, I am a French developer who does C#, Shell, Batch, Visual Basic, FSHARP, lua & a little bit of NodeJS :D 
 
 ![STATS](https://github-readme-stats.vercel.app/api?username=dazd-pkz&show_icons=true&count_private=true&theme=gotham)
 
