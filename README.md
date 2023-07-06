@@ -1,4 +1,4 @@
-<h1 align="center" id="heading">Hi, i'm Dazd</h1>
+<h1 align="center" id="heading">Hi, i'm Dazd 👋</h1>
 
 <h3 align="center">
   I'm a young French developer who has been coding with passion for 6-7 years
